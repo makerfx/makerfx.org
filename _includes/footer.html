@@ -1,0 +1,63 @@
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <h3><i class="fa fa-map-marker"></i> Contact:</h3>
+        <p class="footer-contact">
+          {{ site.company_name }} <br>
+          Phone: {{ site.telephone_number }} <br>
+          Email: {{ site.company_email }}<br>
+        </p>
+      </div>
+
+      <!-- <div class="col-md-4">
+        <h3><i class="fa fa-external-link"></i> Links</h3>
+        <p><a href="/about"> About Us</a></p>
+        <p><a href="/contact"> Contact Us</a></p>
+        <p><a href="/blog"> Blog</a></p>
+      </div> -->
+
+      <div class="col-md-4">
+        <h3><i class="fa fa-heart"></i> Socialize</h3>
+        <div id="social-icons">
+
+          {% if site.facebook_link %}
+            <a href="{{ site.facebook_link }}" class="btn-group facebook">
+              <i class="fa fa-facebook"></i>
+            </a>
+          {% endif %}
+
+          {% if site.twitter_link %}
+            <a href="{{ site.twitter_link }}" class="btn-group twitter">
+              <i class="fa fa-twitter"></i>
+            </a>
+          {% endif %}
+
+          {% if site.instagram_link %}
+            <a href="{{ site.instagram_link }}" class="btn-group instagram">
+              <i class="fa fa-instagram"></i>
+            </a>
+          {% endif %}
+
+          {% if site.flickr_link %}
+            <a href="{{ site.flickr_link }}" class="btn-group flickr">
+              <i class="fa fa-flickr"></i>
+            </a>
+          {% endif %}
+
+          {% if site.slack_link %}
+            <a href="{{ site.slack_link }}" class="btn-group slack">
+              <i class="fa fa-slack"></i>
+            </a>
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="copyright text center">
+    <p>&copy; Copyright {{ site.time | date: '%Y' }}, <a href=" {{ site.url }}">{{ site.title }}</a></p>
+  </div>
+</footer>

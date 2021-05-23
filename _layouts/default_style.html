@@ -1,0 +1,24 @@
+<!doctype html>
+<style>
+  .default_container {
+    max-width: 1100px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+</style>
+
+<html lang="en">
+
+  {% include head.html %}
+  {% include header.html %}
+  {% include script.html %}
+
+  <body>
+    <div class="default_container">
+      {{ content }}
+    </div>
+  </body>
+
+  {% include footer.html %}
+</html>
