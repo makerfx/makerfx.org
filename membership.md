@@ -7,9 +7,11 @@ published: true
 
 # Membership {#services}
 
-MakerFX needs your support to exist.  We love our 5,500 sq. ft. space, but the rent is over $5,000 per month before utilities and other operating costs. Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace, its tools and other resources.
+MakerFX needs your support to exist.  Our 5,500+ sq. ft. space costs over $5,000 per month for rent, utilities and more. Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace, its tools and other resources.
 
-Due to the pandemic, we have stopped our Open Make events and we are doing tours by appointment only. Please email info@makerfx.org with any questions, or to setup a tour. When you are ready to apply to become a member, please use the links below to setup automatic payment. We will initiate the membership process for you.
+Our all-volunteer team does tours of MakerFX by appointment only. Please email <info@makerfx.org> with any questions, or to setup a tour. When you are ready to apply to become a member, please use the links below to setup automatic payment. We will then reach out to you to initiate the rest of the process, including an orientation.
+
+---
 
 # Membership Options
 
@@ -33,9 +35,13 @@ For those that have the means and want to give a little more each month, we have
 
 $100 per month – [Click here to subscribe using PayPal](https://py.pl/1kIXed)
 
+---
+
 ## Donations
 
 If you’d like to support us with a one-time donation, or want alternate monthly payment options, please [email treasurer@themakereffect.org](mailto:treasurer@themakereffect.org) to discuss further.
+
+---
 
 # FAQs
 
