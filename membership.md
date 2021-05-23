@@ -62,6 +62,6 @@ This list may vary (typically gets longer!) – we currently have the following 
 
 ## Do you have a business membership?
 
-At this time, we do not have business memberships. MakerFX space and tools may be used for business prototyping and design work, but should not be used for production of goods sold, or to stock your online store. We are currently working on a more detailed guideline for this topic – if you have questions – please email info@makerfx.org to discuss.
+At this time, we do not have business memberships. MakerFX space and tools may be used for business prototyping and design work, but should not be used for production of goods sold, or to stock your online store. We are currently working on a more detailed guideline for this topic – if you have questions – please email <info@makerfx.org> to discuss.
 
-A simple way to think through this – if you are calculating the cost of a MakerFX membership into your budget for your business – large or small, then you are thinking of a business membership, which we do not have. Factur (www.factur.org) has business memberships and may be better suited to help your business grow.
+A simple way to think through this – if you are calculating the cost of a MakerFX membership into your budget for your business – large or small, then you are thinking of a business membership, which we do not have. [Factur](https://www.factur.org>) has business memberships and may be better suited to help your business grow.
