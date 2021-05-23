@@ -17,8 +17,8 @@ title: MakerFX Makerspace
 email: admin@makerfx.org
 description: > # this means to ignore newlines until "baseurl:"
   MakerFX Makerspace is a unique makerspace in South Orlando.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.makerfx.org"
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://www.makerfx.org"
 
 # Company Information
 company_name: MakerFX Makerspace
