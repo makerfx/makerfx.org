@@ -35,7 +35,7 @@ $100 per month – [Click here to subscribe using PayPal](https://py.pl/1kIXed)
 
 ## Donations
 
-If you’d like to support us with a one-time donation, or want alternate monthly payment options, please [email treasurer@themakereffect.org](treasurer@themakereffect.org) to discuss further.
+If you’d like to support us with a one-time donation, or want alternate monthly payment options, please [email treasurer@themakereffect.org](mailto:treasurer@themakereffect.org) to discuss further.
 
 # FAQs
 
