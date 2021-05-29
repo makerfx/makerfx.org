@@ -6,7 +6,7 @@ title: MakerFX Magic Wheelchair Builds
 ---
 
 # Magic Wheelchair Builds
-**Magic Wheelchair is a nonprofit organization that builds epic costumes for kiddos in wheelchairs — at no cost to families.**
+**[Magic Wheelchair](https://www.magicwheelchair.org/) is a nonprofit organization that builds epic costumes for kiddos in wheelchairs — at no cost to families.**
 
 MakerFX Makerspace members have participated in several Magic Wheelchair builds and continue to make a contribution to this community.
 
