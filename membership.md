@@ -6,9 +6,20 @@ title: MakerFX Membership
 ---
 
 
-# Membership
 
-**MakerFX needs your support to exist.  Our 5,500+ sq. ft. space costs over $5,000 per month for rent, utilities and more. Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace, the tools and other resources.**
+<section>
+
+    <div class="row">
+      <div class="col-lg-3 col-md-2 col-sm-1 col-xs-0"></div>
+      <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12">
+        <img width="100%" src="/assets/img/welcome.jpg">
+      </div>
+    </div>
+</section>
+
+# MakerFX Membership
+
+**MakerFX needs your support to exist. Membership dues pay for rent, utilities, supplies & more for our shared 5,000+ sq. ft. space. Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace, the tools and other resources.**
 
 ---
 
