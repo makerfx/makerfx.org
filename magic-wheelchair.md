@@ -5,6 +5,7 @@ published: true
 title: MakerFX Magic Wheelchair Builds
 description: MakerFX members make a difference by making epic costumes for kiddos in wheelchairs!
 image: /assets/img/magic-wheelchair/alex_playing-1024x768.jpg
+scrolltop: true
 ---
 
 # Magic Wheelchair Builds
