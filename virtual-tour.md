@@ -3,6 +3,8 @@ layout: default_style
 permalink: /virtual-tour/
 published: true
 title: MakerFX Virtual Tour
+description: Take a Virtual Tour of MakerFX Makerspace
+image: /assets/img/virtual-tour-preview.png
 ---
 
 # Virtual tour
