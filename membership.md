@@ -2,6 +2,7 @@
 layout: default_style
 permalink: /membership
 published: true
+title: MakerFX Membership
 ---
 
 
@@ -13,7 +14,8 @@ Our all-volunteer team does tours of MakerFX by appointment only. Please email <
 
 ---
 
-# Membership Options
+# Membership Process
+1. Tour MakerFX - send us an email at <info@makerfx.org> to schedule (and check out our [Virtual Tour](/virtual-tour)
 
 ## Individual
 
