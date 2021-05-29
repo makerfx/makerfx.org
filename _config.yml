@@ -21,6 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # url: "https://www.makerfx.org"
 tagline: Come make with us!
 logo: /assets/img/MakerFX_with_text.png
+image: /assets/img/MakerFX_with_text.png
 
 # Company Information
 company_name: MakerFX Makerspace
