@@ -16,9 +16,11 @@
 title: MakerFX Makerspace
 email: info@makerfx.org
 description: > # this means to ignore newlines until "baseurl:"
-  MakerFX Makerspace is a unique makerspace in South Orlando.
+  MakerFX Makerspace is a community makerspace in South Orlando.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://www.makerfx.org"
+tagline: Come make with us!
+logo: /assets/img/MakerFX_with_text.png
 
 # Company Information
 company_name: MakerFX Makerspace
@@ -43,6 +45,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
