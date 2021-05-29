@@ -1,6 +1,6 @@
 ---
 layout: default_style
-permalink: /virtual_tour
+permalink: /virtual-tour
 published: true
 ---
 
