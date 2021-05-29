@@ -1,6 +1,6 @@
 ---
 layout: default_style
-permalink: /virtual-tour
+permalink: /virtual-tour/
 published: true
 title: MakerFX Virtual Tour
 ---

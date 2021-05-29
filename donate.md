@@ -1,6 +1,6 @@
 ---
 layout: default_style
-permalink: /donate
+permalink: /donate/
 published: true
 title: Donate to Support MakerFX Makerspace
 

@@ -1,10 +1,8 @@
 ---
 layout: default_style
-permalink: /magic-wheelchair
+permalink: /magic-wheelchair/
 published: true
 title: MakerFX Magic Wheelchair Builds
-
-
 ---
 
 # Magic Wheelchair Builds
