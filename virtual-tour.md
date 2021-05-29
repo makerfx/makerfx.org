@@ -6,9 +6,10 @@ published: true
 
 # Virtual tour
 
-Due to the pandemic, we have stopped our Open Make events and we are doing tours by appointment only. Please email info@makerfx.org with any questions, or to setup a tour. Click play below to watch a virtual tour of MakerFX.
+Check our our Virtual Tour below, and if you'd like to see MakerFX in person, email us at <info@makerfx.org> and we will schedule a volunteer to show you the space and answer any questions.
 
-When you are ready to apply to become a member, please use the links below to setup automatic payment. We will initiate the membership process for you.
+
+For information on membership and our membership process, head over to our [membership page](/membership).
 
 ---
 
