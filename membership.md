@@ -3,10 +3,13 @@ layout: default_style
 permalink: /membership/
 published: true
 title: MakerFX Membership
+description: >
+  MakerFX Membership options include Individual, Family and Booster.
+  Membership dues pay for rent, utilities, supplies & more for our shared 5,000+ sq. ft. space.
+  Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace, the tools and other resources.
+image: /assets/img/welcome.jpg
 scrolltop: true
 ---
-
-
 
 <section>
     <div class="row">
@@ -16,7 +19,6 @@ scrolltop: true
       </div>
     </div>
 </section>
-
 
 # MakerFX Membership
 

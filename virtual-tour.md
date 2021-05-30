@@ -3,7 +3,9 @@ layout: default_style
 permalink: /virtual-tour/
 published: true
 title: MakerFX Virtual Tour
-description: Take a Virtual Tour of MakerFX Makerspace
+description: >
+  Take a Virtual Tour of MakerFX Makerspace.
+  Request an in person tour using our <a href="https://docs.google.com/forms/d/1U8uiXRiRIgfvGdbWRuPGpC7fesKbk-E2r4KQKmv59UQ/edit">request form.</a>
 image: /assets/img/virtual-tour-preview.png
 ---
 
