@@ -4,7 +4,7 @@ permalink: /membership/
 published: true
 title: MakerFX Membership
 description: >
-  Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace.
+  Membership helps this maker community exist and provides you 24×7 access.
 logo: /assets/img/welcome.jpg
 image: /assets/img/welcome.jpg
 scrolltop: true

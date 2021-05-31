@@ -5,7 +5,7 @@ published: true
 title: MakerFX Magic Wheelchair Builds
 tagline: MakerFX members make a difference for kiddos in wheelchairs!
 description: >
-  MakerFX Makerspace members have participated in several Magic Wheelchair builds and continue to make a contribution to this community.
+  MakerFX members have participated in several Magic Wheelchair builds.
 logo: /assets/img/magic-wheelchair/alex_playing-1024x768.jpg
 image: /assets/img/magic-wheelchair/alex_playing-1024x768.jpg
 scrolltop: true

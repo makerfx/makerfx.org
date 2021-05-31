@@ -4,7 +4,7 @@ permalink: /virtual-tour/
 published: true
 title: MakerFX Virtual Tour
 description: >
-  Take a Virtual Tour of MakerFX Makerspace and then request an in person tour.
+  Take a Virtual Tour of MakerFX Makerspace before an in person tour.
 logo: /assets/img/virtual-tour-preview.png
 image: /assets/img/virtual-tour-preview.png
 ---

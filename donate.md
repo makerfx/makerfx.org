@@ -4,7 +4,7 @@ permalink: /donate/
 published: true
 title: Donate to Support MakerFX Makerspace
 description: >
-  Your tax-deductible donations support MakerFX Makerspace activities and The Maker Effect Foundation.
+  Donations support MakerFX Makerspace activities and The Maker Effect Foundation.
 logo: /assets/img/welcome.jpg
 image: /assets/img/welcome.jpg
 ---
