@@ -3,10 +3,10 @@ layout: default_style
 permalink: /magic-wheelchair/
 published: true
 title: MakerFX Magic Wheelchair Builds
-tagline: MakerFX members make a difference by making epic costumes for kiddos in wheelchairs!
+tagline: MakerFX members make a difference for kiddos in wheelchairs!
 description: >
   MakerFX Makerspace members have participated in several Magic Wheelchair builds and continue to make a contribution to this community.
-  Examples include Bumblebee Magic Wheelchair, Tie Silencer Magic Wheelchair, Milano Magic Wheelchair, and Tyler's Spiderman wheels.
+logo: /assets/img/magic-wheelchair/alex_playing-1024x768.jpg
 image: /assets/img/magic-wheelchair/alex_playing-1024x768.jpg
 scrolltop: true
 ---

@@ -4,9 +4,8 @@ permalink: /membership/
 published: true
 title: MakerFX Membership
 description: >
-  MakerFX Membership options include Individual, Family and Booster.
-  Membership dues pay for rent, utilities, supplies & more for our shared 5,000+ sq. ft. space.
-  Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace, the tools and other resources.
+  Your monthly membership helps this maker community exist, and provides you 24×7 access to the makerspace.
+logo: /assets/img/welcome.jpg
 image: /assets/img/welcome.jpg
 scrolltop: true
 ---
@@ -85,9 +84,11 @@ Minors are restricted from using specific tools without direct supervision from 
 
 This list may vary (typically gets longer!) – we currently have the following tools (and more!):
 - Laser cutter / engraver (36×24 bed, 50 watt) with rotary tool
-- Forest Scientific CNC 5x10 Router
-- Vinyl Cutter
 - Multiple 3D printers: DeltaMaker and Creality CR-10
+- Forest Scientific CNC 5x10 Router
+- Grizzly Vertical Mill (G0755)
+- TIG Welder (Alpha-TIG 200X)
+- Vinyl Cutter
 - Screenprinting gear
 - Various woodworking tools including a SawStop Professional Cabinet Saw
 - Electronics workbench including soldering stations, oscilloscope, bench power supply

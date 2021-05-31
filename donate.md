@@ -4,11 +4,9 @@ permalink: /donate/
 published: true
 title: Donate to Support MakerFX Makerspace
 description: >
-  Your tax-deductible donations support MakerFX Makerspace activities and The Maker Effect Foundation, a 501(c)(3) public charity.
-  Documentation of charity status available upon request.
-  If your organization has community goals that relate to arts or education, The Maker Effect Foundation will work with your organization to structure a sponsorship program for MakerFX Makerspace, Maker Faire Orlando, Robot Ruckus, or any of our other programs.
+  Your tax-deductible donations support MakerFX Makerspace activities and The Maker Effect Foundation.
+logo: /assets/img/welcome.jpg
 image: /assets/img/welcome.jpg
-
 ---
 
 # Donate to Support Making in Central Florida
