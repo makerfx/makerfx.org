@@ -45,20 +45,20 @@ scrolltop: true
 Individual plans provide a single key (not shareable) with 24×7 access to the tools and community at MakerFX Makerspace.
 
 - $50 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0T93517419312605LL7B3TEY)
-- $500 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://py.pl/4yLARcMoLeq)
+- $500 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8LF7238351897400SL7B3TQY)
 
 #### Family
 
 Family plans provides related family members in the same household with 24×7 access to the tools and community at MakerFX Makerspace.
 
-* $75 per month – [Click here to subscribe using PayPal](https://py.pl/mpvub)
-* $750 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://py.pl/IZq4J)
+* $75 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2SL55308T7530315FL7B3UHI)
+* $750 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0AK98393XF242140HL7B3URI)
 
 #### Booster
 
 For those that have the means and want to give a little more each month, we have the Booster membership that has the same benefits of the individual or family plans.
 
-* $100 per month – [Click here to subscribe using PayPal](https://py.pl/1kIXed)
+* $100 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5FE500920X247203CL7B3U2A)
 
 ---
 
