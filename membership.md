@@ -44,7 +44,7 @@ scrolltop: true
 
 Individual plans provide a single key (not shareable) with 24×7 access to the tools and community at MakerFX Makerspace.
 
-- $50 per month – [Click here to subscribe using PayPal](https://py.pl/29mwTv)
+- $50 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0T93517419312605LL7B3TEY)
 - $500 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://py.pl/4yLARcMoLeq)
 
 #### Family
