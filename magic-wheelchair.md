@@ -31,7 +31,7 @@ MakerFX members, along with other makers from ATMakers, Makers Hollow, MakeMIA, 
 * [Flickr Album](https://www.flickr.com/photos/iancole/albums/72157706334016675/)
 * [GitHub Repo](https://github.com/makerfx/mwc-bumblebee)
 
-<iframe width="517" height="321" src="https://www.youtube.com/embed/bT2eXCCuq0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "https://www.youtube.com/watch?v=bT2eXCCuq0U" %}
 
 ---
 
@@ -48,7 +48,7 @@ Not long after we finished Bumblebee, we were approached by a group of builders 
 * [Flickr Album (Electronics build only)](https://www.flickr.com/photos/iancole/albums/72157705311156481)
 * [GitHub Repo](https://github.com/makerfx/mwc-tie-silencer/)
 
-<iframe width="517" height="321" src="https://www.youtube.com/embed/8EQXdhqsdeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "https://www.youtube.com/watch?v=8EQXdhqsdeU" %}
 
 ---
 
@@ -63,7 +63,7 @@ As part of NOMCON 2019 in Chattanooga, TN, makers from around the country worked
 * [Flicker Album](https://www.flickr.com/photos/iancole/albums/72157709140694872)
 * [GitHub Repo](https://github.com/makerfx/mwc-guardians-milano)
 
-<iframe width="517" height="321" src="https://www.youtube.com/embed/h-LwmTNdZjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% youtube "https://www.youtube.com/watch?v=h-LwmTNdZjs" %}
 
 ---
 
