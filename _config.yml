@@ -22,4 +22,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-sitemap
-  - jekyll-youtube
