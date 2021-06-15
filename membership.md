@@ -127,5 +127,5 @@ Absolutely! Email us at <info@makerfx.org> to request an invite to our Slack wor
 <br><br>
 #### How do I cancel my MakerFX membership?
 1. Go to your PayPal account, find your subscriptions page (it is a bit hidden on the PayPal site, you may need to search for it), and cancel the monthly MakerFX subscription.
-2. Email us at <treasurer@makerfx.org> to make us aware you are cancelling your membership.
+2. Email us at <treasurer@themakereffect.org> to make us aware you are cancelling your membership.
 3. Don't forget to grab any materials / projects you have at the space!
