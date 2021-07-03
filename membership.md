@@ -33,6 +33,7 @@ scrolltop: true
   * Check out the [Getting Started](http://wiki.makerfx.org/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
 3. **Orientation**
   * We will receive an email notifying us of the new subscription and will email you to schedule an orientation.
+  * Check out our [New Member page on the MakerFX wiki](http://wiki.makerfx.org/New-Members-Start-Here) - it is full of useful information!
   * *If you do not check the email attached to your PayPal account regularly, please email us with a better email address!*
   * During your orientation, one of our volunteers will make you a key fob and show you the basics (doors, lights, etc.) and make sure you are connected with others so that you can get started!
 4. **MAKE!**
