@@ -11,7 +11,7 @@ image: /assets/img/virtual-tour-preview.png
 
 # Virtual tour
 
-Check our our Virtual Tour below, and if you'd like to see MakerFX in person, please use our [MakerFX Tour Request Form](https://docs.google.com/forms/d/1U8uiXRiRIgfvGdbWRuPGpC7fesKbk-E2r4KQKmv59UQ/edit).
+Check our our Virtual Tour below, and if you'd like to see MakerFX in person, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour).
 
 
 For information on membership and our membership process, head over to our [membership page](/membership).
