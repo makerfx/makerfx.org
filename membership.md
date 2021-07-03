@@ -27,7 +27,7 @@ scrolltop: true
 
 ## Membership Process
 1. **Tour MakerFX**
-  * To schedule a tour, please use our [MakerFX Tour Request Form](https://docs.google.com/forms/d/1U8uiXRiRIgfvGdbWRuPGpC7fesKbk-E2r4KQKmv59UQ/edit) (and check out our [Virtual Tour](/virtual-tour)!)
+  * To schedule a tour, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour) (and check out our [Virtual Tour](/virtual-tour)!)
 2. **Join MakerFX**
   * Use one of the membership options links below to start a PayPal subscription.
   * Check out the [Getting Started](http://wiki.makerfx.org/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
