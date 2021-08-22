@@ -29,7 +29,8 @@ scrolltop: true
 1. **Tour MakerFX**
   * To schedule a tour, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour) (and check out our [Virtual Tour](/virtual-tour)!)
 2. **Join MakerFX**
-  * Use one of the membership options links below to start a PayPal subscription.
+  * Review the Membership Options below and decide on your desired membership level
+  * Use our [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership) to complete both the waiver form and start a recurring payment option via PayPal
   * Check out the [Getting Started](http://wiki.makerfx.org/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
 3. **Orientation**
   * We will receive an email notifying us of the new subscription and will email you to schedule an orientation.
@@ -45,21 +46,21 @@ scrolltop: true
 
 Individual plans provide a single key (not shareable) with 24×7 access to the tools and community at MakerFX Makerspace.
 
-- $50 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0T93517419312605LL7B3TEY)
-- $500 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-8LF7238351897400SL7B3TQY)
+- $50 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+- $500 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
 
 #### Family
 
 Family plans provides related family members in the same household with 24×7 access to the tools and community at MakerFX Makerspace.
 
-* $75 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-2SL55308T7530315FL7B3UHI)
-* $750 per year (save 2 months by paying in advance!) – [Click here to subscribe using Paypal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-0AK98393XF242140HL7B3URI)
+* $75 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+* $750 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
 
 #### Booster
 
 For those that have the means and want to give a little more each month, we have the Booster membership that has the same benefits of the individual or family plans.
 
-* $100 per month – [Click here to subscribe using PayPal](https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5FE500920X247203CL7B3U2A)
+* $100 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
 
 ---
 
