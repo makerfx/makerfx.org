@@ -1,7 +1,7 @@
 ---
 title: Press Kit Redirect to Dropbox
 permalink: /press-kit/
-layout: default
+layout: default_style
 sitemap: false #adding this so google webmaster tools will stop warning that it is marked nofollow
 ---
 ### Redirecting to Dropbox...
