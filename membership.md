@@ -28,16 +28,21 @@ scrolltop: true
 ## Membership Process
 1. **Tour MakerFX**
   * To schedule a tour, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour) (and check out our [Virtual Tour](/virtual-tour)!)
+  * If you can tour on a Friday night between 6pm and 7pm, this is easiest for our volunteers, and you are likely to meet other members who will be attending one of our Friday night "Guild" meetings at 7pm. If you can't make this time, you have the ability to indicate other times on the above form.
 2. **Join MakerFX**
   * Review the Membership Options below and decide on your desired membership level
   * Use our [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership) to complete both the waiver form and start a recurring payment option via PayPal
   * Check out the [Getting Started](http://wiki.makerfx.org/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
 3. **Orientation**
-  * We will receive an email notifying us of the new subscription and will email you to schedule an orientation.
+  * We will receive an email notifying us of the new subscription and one of our volunteers will email you to schedule an orientation - note: this typically takes a few days for us to schedule with you.
   * Check out our [New Member page on the MakerFX wiki](http://wiki.makerfx.org/New-Members-Start-Here) - it is full of useful information!
   * *If you do not check the email attached to your PayPal account regularly, please email us with a better email address!*
   * During your orientation, one of our volunteers will make you a key fob and show you the basics (doors, lights, etc.) and make sure you are connected with others so that you can get started!
-4. **MAKE!**
+4. **Tips for New Members**
+  * Slack usage is required for reserving tools, learning about class dates, asking questions, getting help, and working together. Please install on mobile and turn on notifications to stay informed!
+  * We recommend attending the Friday night "Guild" meetings (Laser, Woodworking, 3D printing and Soft Arts) to meet other members and learn about the tools and techniques that interest you.
+  * We highly recommend attending the Monthly Member Meeting the last Wednesday of each month to stay informed on current events, changes, and to provide input.
+  * If you aren't sure about something, ask in the appropriate Slack channel, we are here to help, even if we aren't at the makerspace at that moment :)
 
 ---
 
@@ -85,7 +90,7 @@ Minors are restricted from using specific tools without direct supervision from 
 #### What tools are available for members?
 
 This list may vary (typically gets longer!) – we currently have the following tools (and more!):
-- Laser cutter / engraver (36×24 bed, 50 watt) with rotary tool
+- Laser cutter / engraver with rotary tool
 - Multiple 3D printers: DeltaMaker and Creality CR-10
 - Forest Scientific CNC 5x10 Router
 - Grizzly Vertical Mill (G0755)
