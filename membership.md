@@ -25,10 +25,20 @@ scrolltop: true
 
 ---
 
-### NOTE: Delayed Communication and Onboarding - Nov 1st through Nov 15th
- Our organization produces [Maker Faire Orlando](https://www.makerfaireorlando.com). Tours and new member orientations (along with email communication) will be delayed between Nov 1 and Nov 15 each year. Come out to meet us at Maker Faire, and then we can get you setup for a tour or new member orientation after the event!
+<div id="nov-delay-notice" class="alert alert-warning" role="alert" style="display:none">
+  <h4><span class="fa fa-exclamation-triangle"></span> Delayed Communication and Onboarding &mdash; Nov 1st through Nov 15th</h4>
+  <p>Our organization produces <a href="https://www.makerfaireorlando.com">Maker Faire Orlando</a>. Tours and new member orientations (along with email communication) will be delayed between Nov 1 and Nov 15 each year. Come out to meet us at Maker Faire, and then we can get you setup for a tour or new member orientation after the event!</p>
+</div>
 
----
+<script>
+  (function () {
+    var now = new Date();
+    // Show only from Nov 1 through Nov 15 (inclusive). getMonth() is 0-based, so November === 10.
+    if (now.getMonth() === 10 && now.getDate() >= 1 && now.getDate() <= 15) {
+      document.getElementById('nov-delay-notice').style.display = '';
+    }
+  })();
+</script>
 
 ## Membership Process
 1. **Tour MakerFX**
