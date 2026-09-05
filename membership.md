@@ -65,19 +65,19 @@ scrolltop: true
 
 Individual plans provide a single key (not shareable) with 24×7 access to the tools and community at MakerFX Makerspace.
 
-- $50 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
-- $500 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+- $75 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+- $750 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
 
 #### Family
 
 Family plans provides related family members in the same household with 24×7 access to the tools and community at MakerFX Makerspace.
 
-* $75 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
-* $750 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+* $100 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+* $1000 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
 
 #### Booster
 
-For those that have the means and want to give a little more each month, we have the Booster membership that has the same benefits of the individual or family plans.
+For those that have the means and want to give a little more each month, we have the Booster membership that has the same benefits of the individual plan.
 
 * $100 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
 
@@ -93,8 +93,8 @@ If you’d like to support us with a one-time donation, or want alternate monthl
 
 #### What are the differences in membership levels?
 
-The standard membership with 24×7 access is $50 for an individual, and $75 for a family living in the same household.
-The booster membership is for the individual (or family) that wants to give a little extra support to the community in this way. (There are many other ways you can help the community – like volunteering!) You get all the same member benefits of the standard level, and a bit of extra gratitude.
+The standard membership with 24×7 access is $75 for an individual, and $100 for a family living in the same household.
+The booster membership is for the individual that wants to give a little extra support to the community in this way. (There are many other ways you can help the community – like volunteering!) You get all the same member benefits of the standard level, and a bit of extra gratitude.
 <br><br>
 #### What is the minimum membership age?
 
@@ -105,12 +105,13 @@ Minors are restricted from using specific tools without direct supervision from 
 
 This list may vary (typically gets longer!) – we currently have the following tools (and more!):
 - Laser cutter / engraver with rotary tool
-- Multiple 3D printers: DeltaMaker and Creality CR-10
+- Fiber Laser
+- Multiple 3D printers
+- Sewing and Embroidery machines
 - Forest Scientific CNC 5x10 Router
 - Grizzly Vertical Mill (G0755)
 - TIG Welder (Alpha-TIG 200X)
 - Vinyl Cutter
-- Screenprinting gear
 - Various woodworking tools including a SawStop Professional Cabinet Saw
 - Electronics workbench including soldering stations, oscilloscope, bench power supply
 
