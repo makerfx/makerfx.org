@@ -46,10 +46,10 @@ scrolltop: true
 2. **Join MakerFX**
   * Review the Membership Options below and decide on your desired membership level
   * Connect with your tour guide to let them know you would like to join, and they will send you an invite to Coworks, our membership system. 
-  * Check out the [Getting Started](http://wiki.makerfx.org/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
+  * Check out the [Getting Started](https://wiki.makerfx.org/wiki/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
 3. **Orientation**
   * We will receive an email notifying us of the new subscription and one of our volunteers will email you to schedule an orientation - note: this typically takes a few days for us to schedule with you.
-  * Check out our [New Member page on the MakerFX wiki](http://wiki.makerfx.org/New-Members-Start-Here) - it is full of useful information!
+  * Check out our [New Member page on the MakerFX wiki](https://wiki.makerfx.org/wiki/New-Members-Start-Here) - it is full of useful information!
   * During your orientation, one of our volunteers will setup your door access and show you the basics (doors, lights, etc.) and make sure you are connected with others so that you can get started!
 4. **Tips for New Members**
   * Slack usage is required for reserving tools, learning about class dates, asking questions, getting help, and working together. Please install on mobile and turn on notifications to stay informed!
