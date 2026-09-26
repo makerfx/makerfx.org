@@ -42,20 +42,19 @@ scrolltop: true
 
 ## Membership Process
 1. **Tour MakerFX**
-  * To schedule a tour, please use our [MakerFX Tour Request Form](https://form.jotform.com/makereffect/tour) (and check out our [Virtual Tour](/virtual-tour)!)
+  * To schedule a tour, please use our [MakerFX Tour Request Form](https://themakereffect.coworksapp.com/tour-request/761) (and check out our [Virtual Tour](/virtual-tour)!)
 2. **Join MakerFX**
   * Review the Membership Options below and decide on your desired membership level
-  * Use our [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership) to complete both the waiver form and start a recurring payment option via PayPal
+  * Connect with your tour guide to let them know you would like to join, and they will send you an invite to Coworks, our membership system. 
   * Check out the [Getting Started](http://wiki.makerfx.org/New-Members-Start-Here) on our wiki for more info and the items we will cover in your orientation.
 3. **Orientation**
   * We will receive an email notifying us of the new subscription and one of our volunteers will email you to schedule an orientation - note: this typically takes a few days for us to schedule with you.
   * Check out our [New Member page on the MakerFX wiki](http://wiki.makerfx.org/New-Members-Start-Here) - it is full of useful information!
-  * *If you do not check the email attached to your PayPal account regularly, please email us with a better email address!*
-  * During your orientation, one of our volunteers will make you a key fob and show you the basics (doors, lights, etc.) and make sure you are connected with others so that you can get started!
+  * During your orientation, one of our volunteers will setup your door access and show you the basics (doors, lights, etc.) and make sure you are connected with others so that you can get started!
 4. **Tips for New Members**
   * Slack usage is required for reserving tools, learning about class dates, asking questions, getting help, and working together. Please install on mobile and turn on notifications to stay informed!
-  * We recommend attending the Friday night "Guild" meetings (Laser, Woodworking, 3D printing and Soft Arts) to meet other members and learn about the tools and techniques that interest you.
-  * We highly recommend attending the Monthly Member Meeting the last Wednesday of each month to stay informed on current events, changes, and to provide input.
+  * We recommend attending the Friday night social to meet other members and learn from our community.
+  * We highly recommend attending the Monthly Member Meeting (announced in Slack) to stay informed on current events, changes, and to provide input.
   * If you aren't sure about something, ask in the appropriate Slack channel, we are here to help, even if we aren't at the makerspace at that moment :)
 
 ---
@@ -65,21 +64,21 @@ scrolltop: true
 
 Individual plans provide a single key (not shareable) with 24×7 access to the tools and community at MakerFX Makerspace.
 
-- $75 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
-- $750 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+- $75 per month
+- $750 per year (save 2 months by paying in advance!)
 
 #### Family
 
 Family plans provides related family members in the same household with 24×7 access to the tools and community at MakerFX Makerspace.
 
-* $100 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
-* $1000 per year (save 2 months by paying in advance!) – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+* $100 per month
+* $1000 per year (save 2 months by paying in advance!)
 
 #### Booster
 
 For those that have the means and want to give a little more each month, we have the Booster membership that has the same benefits of the individual plan.
 
-* $100 per month – [MakerFX Membership Form](https://form.jotform.com/makereffect/makerfx-membership)
+* $100 per month
 
 ---
 
@@ -132,7 +131,7 @@ this is a great topic for your orientation, and we can pair you with another mem
 
 At this time, we do not have business memberships. MakerFX space and tools may be used for business prototyping and design work, but should not be used for production of goods sold, or to stock your online store.
 
-A simple way to think through this – if you are calculating the cost of a MakerFX membership into your budget for your business – large or small, then you are thinking of a business membership, which we do not have. [Factur](https://www.factur.org>) has business memberships and may be better suited to help your business grow.
+A simple way to think through this – if you are calculating the cost of a MakerFX membership into your budget for your business – large or small, then you are thinking of a business membership, which we do not have. 
 
 If your business would like to purchase memberships for your staff as a benefit, or if you would like to support MakerFX as a sponsor with sponsor benefits, we are happy to create a custom program for you. Please email <info@makerfx.org> to discuss.
 <br><br>
@@ -148,6 +147,5 @@ We are happy to discuss your individual situation. There are other ways to contr
 Absolutely! Email us at <info@makerfx.org> to request an invite to our Slack workspace where we communicate about tools & projects as well as post about group projects and volunteer opportunities.
 <br><br>
 #### How do I cancel my MakerFX membership?
-1. Go to your PayPal account, find your subscriptions page (it is a bit hidden on the PayPal site, you may need to search for it), and cancel the monthly MakerFX subscription.
-2. Email us at <treasurer@themakereffect.org> to make us aware you are cancelling your membership.
-3. Don't forget to grab any materials / projects you have at the space!
+1. You can manage your membership in Coworks, our membership system.
+2. Don't forget to grab any materials / projects you have at the space!
